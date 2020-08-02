@@ -53,7 +53,7 @@ pip install Flask
 
 - En "Deployment Method" escoger "Connect to Github" y seguir las instrucciones.
 
-- Una vez que esté listo, aparecerá un link para revisar la aplicacion en el navegador, como este: https://facemask-udd.herokuapp.com/
+- Una vez que esté listo, aparecerá un link para revisar la aplicacion en el navegador, como este: https://app-learn-pp.herokuapp.com/
 
 ## Créditos
 
