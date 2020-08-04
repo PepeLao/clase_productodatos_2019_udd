@@ -1,10 +1,10 @@
 {% extends "base.html" %} {% block content %}
 
-<h2>Sube una imagen por favor.</h2>
+<h2>Sube la imagen a ser fiscalizada por favor.</h2>
 <div>
     <form id="upload-file" method="post" enctype="multipart/form-data">
         <label for="imageUpload" class="upload-label">
-            Sube la imagen
+            Sube la imagen a fiscalizar
         </label>
         <input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg">
     </form>
@@ -15,7 +15,7 @@
             </div>
         </div>
         <div>
-            <button type="button" class="btn btn-secondary btn-lg " id="btn-predict">¡Predicción!</button>
+            <button type="button" class="btn btn-secondary btn-lg " id="btn-predict">Identificación de imagen</button>
         </div>
     </div>
 
